@@ -9,6 +9,20 @@ I'm a Computer Science Honors graduate from Sheridan College with a focus in Mob
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
+## 💼 Work Experience
+- **iOS Application Developer Mentor** - *Apple Canada & CEC* 👩🏻‍💻🍎 (Feb 2023 - Present)
+  - Provided consulting services to enhance the effectiveness of a Swift development program for high school students, resulting in a 25% increase in applications.
+  - Guided students through the entire iOS app development process, offering expert advice and support, achieving a 90% success rate in presenting completed apps.
+- **Mobile Application Developer Co-op** - *TD Bank* 📱🏦 (May 2023 - Aug 2023)
+  - Developed user-friendly cloud-based app updates for the TD Mobile App on Android and iOS using Kotlin and Swift, driving improved user satisfaction and enhanced usability.
+  - Led rigorous testing initiatives (accessibility focus) to boost app interactivity by 71%, ensuring a seamless user experience.
+- **Quality Assurance Analyst Co-op** - *BMO* 🔍🏦 (Jan 2023 - May 2023)
+  - Reduced post-release bugs by 20% through comprehensive testing (UI/Unit/Performance etc.), leveraging Selenium.
+  - Optimized testing efficiency by 50% by implementing a mix of manual and automated testing, achieving increased coverage.
+- **Web Developer Co-op** - *Klick Health* 🌐🏥 (May 2022 - Aug 2022) 
+  - Leveraged AEM (Adobe Experience Manager) to develop interactive front-end components for pharma clients and a non-profit, boosting engagement by 40%.
+
+
 ## 🧰 Languages and Tools:
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
