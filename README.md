@@ -1,9 +1,11 @@
-# Hello World, I'm Navya Vohra! 👋
+<h1 align="center">Hello World, I'm Navya Vohra! 👩‍💻</h1>
 
-![DSC01477](https://github.com/user-attachments/assets/d2b957d9-2216-4ac6-9742-16928f4db2be)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d2b957d9-2216-4ac6-9742-16928f4db2be">
+</p>
 
 ## 🚀 About Me
-I'm an Honors Bachelor's graduate in Computer Science from Sheridan College, currently enhancing mobile and web application development through innovative design and rigorous testing. I specialize in Swift, Kotlin, and JavaScript, and am passionate about improving user experience and efficiency.
+I'm a Computer Science Honors graduate from Sheridan College with a focus in Mobile Computing. Through three impactful co-op positions, I've honed my skills across web development, quality assurance, and mobile app creation. Beyond technical prowess, I've embraced mentorship roles, notably at Apple, where I've nurtured the next generation of software developers. My career is marked by a commitment to continuous learning and leading-edge project involvement, aiming to drive technological innovations forward.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
@@ -22,49 +24,24 @@ I'm an Honors Bachelor's graduate in Computer Science from Sheridan College, cur
 ## 🛠 Skills
 - **Programming Languages:** Android (Kotlin), iOS (Swift), C, C++, C#, F#, Python, BASH
 - **Web Technologies:** HTML, CSS, JavaScript, REST API design, SOAP
-- **Frameworks:** Mobile React Native, Jetpack Compose Web Angular, React
+- **Frameworks:** Mobile React Native, Jetpack Compose, Angular, React
 - **Databases:** MySQL, MS Access, Oracle
 - **Version Control:** Bitbucket, GitHub
 - **Project Management & Design Tools:** JIRA, Figma, AEM, Confluence, SourceTree, Visual Paradigm, Selenium, Jenkins
 - **Soft Skills:** Communication, Leadership, Collaboration, Problem-Solving, Time Management
 
-## 🔥 Streak Stats
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical)
-
-## 📈 GitHub Stats
-![Navya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=algolia)
-
-## 🏆 Achievements
-- **Hackathons:** Participated in Hackathon 2022, 2023
-- **Leadership:** Member of Google Developer Group, Women Tech Makers
-
 ## 🎯 Portfolio Projects
 Below are some of my key projects. Click to see more details!
-- **iOS Travel App:** [Travel Companion](https://github.com/your-github-username/Travel-Companion) 🌍
+- **iOS Daily Wellness App:** [Travel Companion](https://github.com/your-github-username/Travel-Companion) 🌍
+- **Web Development for Daily Wellness - Admin Panel:** [EAT REAL Campaign](https://github.com/your-github-username/EAT-REAL) 🥦
 - **Android Banking App:** [Banking Made Easy](https://github.com/your-github-username/Banking-App) 💳
-- **Web Development for Non-Profit:** [EAT REAL Campaign](https://github.com/your-github-username/EAT-REAL) 🥦
 - **Swift Mentoring Program:** [Swift Success Stories](https://github.com/your-github-username/Swift-Success-Stories) 📚
 
 ## 📞 Contact Me
-- **LinkedIn:** [navyavohra](https://www.linkedin.com/in/navyavohra/)
-- **Email:** [navyavohra19@gmail.com](mailto:navyavohra19@gmail.com)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Navya-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/navyavohra/)
+- **Email:** [![Email](https://img.shields.io/badge/Email-navyavohra19%40gmail.com-blue?style=flat&logo=gmail)](mailto:navyavohra19@gmail.com)
 
 ## ✨ Fun Fact
 I love doing freelance art, creating beautiful canvases for home decor. 🎨
 
 <!-- This is a comment: Update the 'your-github-username' with your actual GitHub username and ensure all links are correct before saving this README. -->
-
-<!--
-**navyavohra/navyavohra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
