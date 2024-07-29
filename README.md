@@ -38,10 +38,14 @@ I'm a Computer Science Honors graduate from Sheridan College with a focus in Mob
 
 ## 🎯 Portfolio Projects
 Below are some of my key projects. Click to see more details!
-- **iOS Daily Wellness App:** [Travel Companion](https://github.com/your-github-username/Travel-Companion) 🌍
-- **Web Development for Daily Wellness - Admin Panel:** [EAT REAL Campaign](https://github.com/your-github-username/EAT-REAL) 🥦
+- **iOS Daily Wellness App:** [Daily Welness App](https://github.com/koradara/DailyWellness/tree/master) 🌍
+- **Web Development for Daily Wellness - Admin Panel:** [Daily Welness Web](https://github.com/navyavohra/DailyWellness_WebAdmin/tree/master) 🥦
+- **Inventory Manager:** [Inventory Manager](https://github.com/navyavohra/InventoryManagement_mvc)
 - **Android Banking App:** [Banking Made Easy](https://github.com/your-github-username/Banking-App) 💳
-- **Swift Mentoring Program:** [Swift Success Stories](https://github.com/your-github-username/Swift-Success-Stories) 📚
+- **Exam Helper:** [Exam Helper]((https://github.com/navyavohra/ExamHelperApp)) 📚
+- **Apartment Manager:**[Apartments](https://github.com/navyavohra/apartment_manager)
+- **Biggie Paws**[Dog Bread App](https://github.com/navyavohra/biggie_paws_final)
+- **Rock Paper Scissors**[Rock Paper Scissors](https://github.com/navyavohra/RockPaperScissor_assignment1))
 
 ## 📞 Contact Me
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Navya-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/navyavohra/)
