@@ -1,6 +1,6 @@
 <h1 align="center">Hello World, I'm Navya Vohra! 👩‍💻</h1>
 
-[![MasterHead](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)](https://navyavohra.com)
+[![MasterHead](https://i.pinimg.com/originals/84/9b/8f/849b8fc9920e1f9b3495b48a6722f756.gif)](https://navyavohra.com)
 
 ## 🚀 About Me
 I'm a Computer Science Honors graduate from Sheridan College with a focus in Mobile Computing. Through three impactful co-op positions, I've honed my skills across web development, quality assurance, and mobile app creation. Beyond technical prowess, I've embraced mentorship roles, notably at Apple, where I've nurtured the next generation of software developers. My career is marked by a commitment to continuous learning and leading-edge project involvement, aiming to drive technological innovations forward.
