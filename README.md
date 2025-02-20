@@ -1,29 +1,35 @@
 <h1 align="center">Hello World, I'm Navya Vohra! 👩‍💻</h1>
 
-[![MasterHead](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)](https://navyavohra.com)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif" alt="MasterHead" href="https://navyavohra.com">
+</p>
 
 ## 🚀 About Me
 I'm a Computer Science Honors graduate from Sheridan College with a focus in Mobile Computing. Through three impactful co-op positions, I've honed my skills across web development, quality assurance, and mobile app creation. Beyond technical prowess, I've embraced mentorship roles, notably at Apple, where I've nurtured the next generation of software developers. My career is marked by a commitment to continuous learning and leading-edge project involvement, aiming to drive technological innovations forward.
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=green" alt="Profile Views">
+</p>
 
 ## 💼 Work Experience
 - **iOS Application Developer Mentor** - *Apple Canada & CEC* 👩🏻‍💻🍎 (Feb 2023 - Present)
 - **Mobile Application Developer Co-op** - *TD Bank* 📱🏦 (May 2023 - Aug 2023)
 - **Quality Assurance Analyst Co-op** - *BMO* 🔍🏦 (Jan 2023 - May 2023)
-- **Web Developer Co-op** - *Klick Health* 🌐🏥 (May 2022 - Aug 2022) 
+- **Web Developer Co-op** - *Klick Health* 🌐🏥 (May 2022 - Aug 2022)
 
 ## 🧰 Languages and Tools:
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA">
+</p>
 
 ## 🛠 Skills
 - **Programming Languages:** Android (Kotlin), iOS (Swift), C, C++, C#, F#, Python, BASH
@@ -36,14 +42,14 @@ I'm a Computer Science Honors graduate from Sheridan College with a focus in Mob
 
 ## 🎯 Portfolio Projects
 Below are some of my key projects. Click to see more details!
-- **iOS Daily Wellness App:** [Daily Welness App](https://github.com/koradara/DailyWellness/tree/master) 🌍
-- **Web Development for Daily Wellness - Admin Panel:** [Daily Welness Web](https://github.com/navyavohra/DailyWellness_WebAdmin/tree/master) 🥦
+- **iOS Daily Wellness App:** [Daily Wellness App](https://github.com/koradara/DailyWellness/tree/master) 🌍
+- **Web Development for Daily Wellness - Admin Panel:** [Daily Wellness Web](https://github.com/navyavohra/DailyWellness_WebAdmin/tree/master) 🥦
 - **Inventory Manager:** [Inventory Manager](https://github.com/navyavohra/InventoryManagement_mvc) 🧳
 - **Android Banking App:** [Banking Made Easy](https://github.com/your-github-username/Banking-App) 💳
-- **Exam Helper:** [Exam Helper]((https://github.com/navyavohra/ExamHelperApp)) 📚
+- **Exam Helper:** [Exam Helper](https://github.com/navyavohra/ExamHelperApp) 📚
 - **Apartment Manager:** [Apartments](https://github.com/navyavohra/apartment_manager) 🏢
 - **Biggie Paws:** [Dog Bread App](https://github.com/navyavohra/biggie_paws_final) 🐾
-- **Rock Paper Scissors:** [Rock Paper Scissors](https://github.com/navyavohra/RockPaperScissor_assignment1)) ✂️
+- **Rock Paper Scissors:** [Rock Paper Scissors](https://github.com/navyavohra/RockPaperScissor_assignment1) ✂️
 
 ## 📞 Contact Me
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Navya-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/navyavohra/)
