@@ -12,10 +12,10 @@ I'm Navya Vohra, a driven Software Developer from Canada, with a robust backgrou
 </p>
 
 ## 💼 Work Experience
-- **iOS Application Developer Mentor** - *Apple Canada & CEC* 👩🏻‍💻🍎 (Feb 2023 - Present)
-- **Mobile Application Developer Co-op** - *TD Bank* 📱🏦 (May 2023 - Aug 2023)
-- **Quality Assurance Analyst Co-op** - *BMO* 🔍🏦 (Jan 2023 - May 2023)
-- **Web Developer Co-op** - *Klick Health* 🌐🏥 (May 2022 - Aug 2022)
+- **Application Developer Mentor** - *Apple Canada & CEC* 👩🏻‍💻🍎 (Feb 2023 - Present)
+- **Software Engineer - Mobile** - *TD Bank* 📱🏦 (May 2023 - Aug 2023)
+- **Software Quality Engineer** - *BMO* 🔍🏦 (Jan 2023 - May 2023)
+- **Software Developer** - *Klick Health* 🌐🏥 (May 2022 - Aug 2022)
 
 ## 🧰 Languages and Tools:
 <p align="center">
