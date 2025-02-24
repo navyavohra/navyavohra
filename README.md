@@ -5,7 +5,7 @@
 </p>
 
 ## 🚀 About Me
-I'm a Computer Science Honors graduate from Sheridan College with a focus in Mobile Computing. Through three impactful co-op positions, I've honed my skills across web development, quality assurance, and mobile app creation. Beyond technical prowess, I've embraced mentorship roles, notably at Apple, where I've nurtured the next generation of software developers. My career is marked by a commitment to continuous learning and leading-edge project involvement, aiming to drive technological innovations forward.
+I'm Navya Vohra, a driven Software Developer from Canada, with a robust background in mobile and web application development. As an Honors Bachelor's graduate in Computer Science from Sheridan College and an app developer at Apple, I've developed a strong portfolio in designing, testing, and implementing software solutions that enhance user engagement and efficiency. Passionate about mentorship and innovation, I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&color=green" alt="Profile Views">
