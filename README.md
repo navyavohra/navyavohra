@@ -54,7 +54,7 @@ Below are some of my key projects. Click to see more details!
 ## 📞 Contact Me
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Navya-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/navyavohra/)
 - **Email:** [![Email](https://img.shields.io/badge/Email-navyavohra19%40gmail.com-blue?style=flat&logo=gmail)](mailto:navyavohra19@gmail.com)
-- **Portfolio:** [![Portfolio](https://img.shields.io/badge/LinkedIn-Navya-blue?style=flat&logo=linkedin)](https://navyavohra.com)
+- **Portfolio:** [![Portfolio](https://img.shields.io/badge/Porfolio-Navya-blue?style=flat&logo=portfolio)](https://navyavohra.com)
 
 ## ✨ Fun Fact
 I love doing freelance art, creating beautiful canvases for home decor. 🎨
